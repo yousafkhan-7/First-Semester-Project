@@ -1,1 +1,2 @@
 # First-Semester-Project
+I have done my final semester project on C++. The project was titled as Virtual Car Analyst. The purpose of this project was that a code takes the input data from the user such as car mileage, battery health, tire change history, car accident history etc and displays the output according to the conditions and input given and then at the last it also provides you the location to the nearest car mechanic and gives solutions to upgrade your car.
